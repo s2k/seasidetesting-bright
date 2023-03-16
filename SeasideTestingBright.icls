@@ -1,18 +1,21 @@
 <scheme name="SeasideTestingBright" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2021-05-22T20:20:55</property>
-    <property name="ide">Ruby</property>
-    <property name="ideVersion">2021.1.1.0.0</property>
-    <property name="modified">2021-05-22T20:21:17</property>
+    <property name="created">2023-03-16T09:57:09</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2022.3.3.0.0</property>
+    <property name="modified">2023-03-16T09:58:17</property>
     <property name="originalScheme">SeasideTestingBright</property>
   </metaInfo>
   <colors>
-    <option name="CARET_ROW_COLOR" value="2d2d2d" />
+    <option name="CARET_ROW_COLOR" value="2b2f31" />
+    <option name="INFORMATION_HINT" value="" />
     <option name="LINE_NUMBERS_COLOR" value="9ea2a7" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="bebdbd" />
-    <option name="NOTIFICATION_BACKGROUND" value="77be74" />
+    <option name="NOTIFICATION_BACKGROUND" value="ffffff" />
+    <option name="PROMOTION_PANE" value="e6edf7" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="e6edf7" />
     <option name="SELECTED_TEARLINE_COLOR" value="c2c2c2" />
-    <option name="SELECTION_BACKGROUND" value="5d5d5d" />
+    <option name="SELECTION_BACKGROUND" value="393b3d" />
     <option name="TEARLINE_COLOR" value="909090" />
     <option name="WHITESPACES" value="e2e2e2" />
   </colors>
@@ -31,6 +34,12 @@
     <option name="BREADCRUMBS_DEFAULT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="CONSOLE_GREEN_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="66b326" />
+        <option name="BACKGROUND" value="39511f" />
       </value>
     </option>
     <option name="CUSTOM_NUMBER_ATTRIBUTES">
@@ -134,7 +143,6 @@
         <option name="FOREGROUND" value="80b8f3" />
       </value>
     </option>
-    <option name="ELIXIR_BRACES" baseAttributes="DEFAULT_BRACES" />
     <option name="ELIXIR_BRACKET">
       <value>
         <option name="FOREGROUND" value="5ae6e4" />
@@ -314,6 +322,28 @@
         <option name="FOREGROUND" value="db5450" />
       </value>
     </option>
+    <option name="GHERKIN_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="e75427" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GHERKIN_OUTLINE_PARAMETER_SUBSTITUTION">
+      <value>
+        <option name="FOREGROUND" value="7bdaec" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GHERKIN_REGEXP_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="207dee" />
+      </value>
+    </option>
+    <option name="GHERKIN_TABLE_PIPE">
+      <value>
+        <option name="FOREGROUND" value="51e715" />
+      </value>
+    </option>
     <option name="GROOVY_KEYWORD">
       <value>
         <option name="FOREGROUND" value="cc9f00" />
@@ -365,6 +395,13 @@
         <option name="FOREGROUND" value="f3aa12" />
       </value>
     </option>
+    <option name="INFO_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="17a483" />
+        <option name="EFFECT_COLOR" value="aeae80" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="101010" />
@@ -391,11 +428,6 @@
         <option name="FOREGROUND" value="4cb9db" />
         <option name="EFFECT_COLOR" value="ff0000" />
         <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value>
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_LABEL">
@@ -24849,8 +24881,8 @@
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="17a483" />
-        <option name="BACKGROUND" value="585858" />
-        <option name="ERROR_STRIPE_COLOR" value="be9117" />
+        <option name="BACKGROUND" value="383838" />
+        <option name="ERROR_STRIPE_COLOR" value="ffffff" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
