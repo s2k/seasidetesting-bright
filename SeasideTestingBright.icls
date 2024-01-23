@@ -1,9 +1,9 @@
 <scheme name="SeasideTestingBright" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2024-01-23T09:03:39</property>
+    <property name="created">2024-01-23T09:08:39</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2023.3.2.0.0</property>
-    <property name="modified">2024-01-23T09:05:18</property>
+    <property name="modified">2024-01-23T09:09:00</property>
     <property name="originalScheme">SeasideTestingBright</property>
   </metaInfo>
   <colors>
@@ -65,6 +65,18 @@
       <value>
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="323232" />
+      </value>
+    </option>
+    <option name="CONSOLE_DARKGRAY_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="727272" />
+        <option name="BACKGROUND" value="424242" />
+      </value>
+    </option>
+    <option name="CONSOLE_GRAY_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="c0c0c0" />
+        <option name="BACKGROUND" value="616161" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_OUTPUT">
